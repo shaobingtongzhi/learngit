@@ -1,7 +1,3 @@
 <?php 
-echo 123;
-echo 456;
-
-phpinfo();
-echo "这是我的个人分支";
+echo "新的分支";
  ?>
